@@ -2782,6 +2782,7 @@
 
 			.wrapper.style1 a {
 				color: #39C49D;
+                text-decoration: none;
 			}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -3018,6 +3019,7 @@
 
 			.wrapper.style2 a {
 				color: #39C49D;
+                text-decoration: none;
 			}
 
 			.wrapper.style2 strong, .wrapper.style2 b {
@@ -3238,6 +3240,7 @@
 
 			.wrapper.style3 a {
 				color: #39C49D;
+                text-decoration: none;
 			}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
@@ -3727,7 +3730,7 @@
 /* Footer */
 
 	#footer {
-		background-color: #f7f7f7;
+		background-color: #39C49D;
 		color: #444;
 		padding: 5em 0 4em 0;
 		position: relative;
@@ -3738,7 +3741,8 @@
 		}
 
 		#footer a {
-			color: #39C49D;
+			color: #fff;
+            text-decoration: none;
 		}
 
 		#footer strong, #footer b {
@@ -3746,11 +3750,11 @@
 		}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-			color: #555;
+			color: #fff;
 		}
 
 		#footer blockquote {
-			border-left-color: #ddd;
+			border-left-color: #fff;
 		}
 
 		#footer code {
@@ -3763,7 +3767,7 @@
 		}
 
 		#footer:before {
-			background-color: #ddd;
+			background-color: #39C49D;
 			content: '';
 			height: 1px;
 			left: 30%;
@@ -3773,7 +3777,7 @@
 		}
 
 		#footer .copyright {
-			color: #bbb;
+			color: #fff;
 			font-size: 0.9em;
 			margin: 0 0 2em 0;
 			padding: 0;
