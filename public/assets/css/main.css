@@ -3657,6 +3657,10 @@
 			#banner {
 				padding: 8em 0 6em 0;
 			}
+            
+            #banner h2 img{
+					width: 100%;
+				}
 
 		}
 
