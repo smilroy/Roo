@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="115.28089"
+     inkscape:cx="1.0831479"
      inkscape:cy="887.06122"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,8 +88,8 @@
            id="rect7524" /></flowRegion><flowPara
          id="flowPara7526">Chouette</flowPara></flowRoot>    <g
        id="g5313"
-       inkscape:export-xdpi="60.626827"
-       inkscape:export-ydpi="60.626827">
+       inkscape:export-xdpi="2841.8826"
+       inkscape:export-ydpi="2841.8826">
       <rect
          y="45.378387"
          x="335.81198"
